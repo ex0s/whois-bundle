@@ -1,0 +1,39 @@
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.
+
+Domain Information
+Query: google.as
+Status: Active
+Created: 02 Aug 2000 00:00 UTC
+Expires: 02 Aug 2014 00:00 UTC
+Name Servers:
+    ns1.google.com
+    ns2.google.com
+    ns3.google.com
+    ns4.google.com
+
+Registrar Information
+Registrar Name: MarkMonitor Inc.
+
+
+
+
+Registrant:
+Name: Google, Inc.
+
+
+Admin Contact:
+Name: Google, Inc.
+Organisation: DNS Admin
+
+
+Technical Contact:
+Name: Google, Inc.
+Organisation: DNS Admin
+
+
+Billing Contact:
+Name: MarkMonitor
+Organisation: Admin, CCOPS
+
